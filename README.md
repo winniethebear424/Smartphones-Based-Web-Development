@@ -2,5 +2,5 @@
 
 ## Take picture using camera: 
 There are two dependencies we're going to use.
-(1) camera, which is used to handle everything related to camera, including accessing the camera and requesting permission.
-(2) fluttertoast, which is used for displaying message in a toast. Add the following in your pubspec.yml file.
+(1) camera, which is used to handle everything related to the camera, including accessing the camera and requesting permission.
+(2) fluttertoast, which is used for displaying a message in a toast. Add the following in the pubspec.yml file.
