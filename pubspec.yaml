@@ -1,0 +1,24 @@
+name: take_picture_using_camera
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  camera: ^0.10.5+9
+  fluttertoast: ^8.2.4
+
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.2
+  image_picker: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 
+flutter:
+  uses-material-design: true
